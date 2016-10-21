@@ -1,0 +1,47 @@
+.container {
+  list-style: none;
+  width: 550px;
+  height: 650px;
+  margin: auto;
+  padding-left: 0px;
+  border: 1px solid gray;
+  text-align: center; }
+
+li {
+  border: 1px solid gray;
+  margin: 15px;
+  margin-left: 25px;
+  margin-right: 25px;
+  height: 30px; }
+
+li > input {
+  width: 400px;
+  text-align: center;
+  border: none; }
+
+#sign-up {
+  background: blue;
+  margin: 0px;
+  height: 50px; }
+
+#textarea {
+  height: 100px; }
+
+#select {
+  text-align: center; }
+
+#selected {
+  border: none; }
+
+button {
+  background-color: #2D88CD;
+  color: white;
+  border-radius: .5px; }
+
+#clicky {
+  background-color: #C5DEF1;
+  margin: 0px;
+  border: none;
+  height: 85px; }
+
+/*# sourceMappingURL=main.css.map */
